@@ -1,0 +1,15 @@
+C:\DesafioDeProjeto2\bin\Debug\net6.0\DesafioProjetoHospedagem.exe
+C:\DesafioDeProjeto2\bin\Debug\net6.0\DesafioProjetoHospedagem.deps.json
+C:\DesafioDeProjeto2\bin\Debug\net6.0\DesafioProjetoHospedagem.runtimeconfig.json
+C:\DesafioDeProjeto2\bin\Debug\net6.0\DesafioProjetoHospedagem.dll
+C:\DesafioDeProjeto2\bin\Debug\net6.0\DesafioProjetoHospedagem.pdb
+C:\DesafioDeProjeto2\obj\Debug\net6.0\DesafioProjetoHospedagem.csproj.AssemblyReference.cache
+C:\DesafioDeProjeto2\obj\Debug\net6.0\DesafioProjetoHospedagem.GeneratedMSBuildEditorConfig.editorconfig
+C:\DesafioDeProjeto2\obj\Debug\net6.0\DesafioProjetoHospedagem.AssemblyInfoInputs.cache
+C:\DesafioDeProjeto2\obj\Debug\net6.0\DesafioProjetoHospedagem.AssemblyInfo.cs
+C:\DesafioDeProjeto2\obj\Debug\net6.0\DesafioProjetoHospedagem.csproj.CoreCompileInputs.cache
+C:\DesafioDeProjeto2\obj\Debug\net6.0\DesafioProjetoHospedagem.dll
+C:\DesafioDeProjeto2\obj\Debug\net6.0\refint\DesafioProjetoHospedagem.dll
+C:\DesafioDeProjeto2\obj\Debug\net6.0\DesafioProjetoHospedagem.pdb
+C:\DesafioDeProjeto2\obj\Debug\net6.0\DesafioProjetoHospedagem.genruntimeconfig.cache
+C:\DesafioDeProjeto2\obj\Debug\net6.0\ref\DesafioProjetoHospedagem.dll
